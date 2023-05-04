@@ -75,7 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Yarn create vite client 
 Cd client
 Yarn
-Year dev (run)
+Yerr dev (run)
 Yarn (tailwinds install)
 yarn add react-router-dom
 ```
